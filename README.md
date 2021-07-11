@@ -4,7 +4,8 @@
   <img src="https://miro.medium.com/max/2000/1*ZoFSEJPewsoFaDwMZylrCQ.png" />
 </p>
 
-The goal of this library is to make it easy to separate presentation from business logic, facilitating testability and reusability.
+The goal of this library is to make it easy to separate presentation from business logic, facilitating testability and reusability. 
+
 
 ## Documentation
 
@@ -96,9 +97,8 @@ $ git remote set-head origin -a
 1. Add assets
 2. Run [FlutterGen](https://github.com/fluttergen)
 
-<!--
- - If remote user disconnect then disconnect call
- - If remote user join then join call
- - play sound depending on status
- - Background calling handdle
- -->
+
+
+## Screenshot
+
+![](https://i.ibb.co/jZCPFb4/Screenshot-2021-07-11-at-9-34-01-PM.png) 
