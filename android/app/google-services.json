@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57735444539",
+    "project_id": "pustack-1af40",
+    "storage_bucket": "pustack-1af40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57735444539:android:b0ea154700c1fea9e4041e",
+        "android_client_info": {
+          "package_name": "com.example.voice_calling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57735444539-l6l6dv8d7demvjncp7jra2q910ecqme0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsC8WPK0Vhmw1ABeJqnb7Dd0bcbtqE3L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57735444539-l6l6dv8d7demvjncp7jra2q910ecqme0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
